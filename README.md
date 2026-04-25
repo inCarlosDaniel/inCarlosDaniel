@@ -8,10 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=FFE81F&center=true&vCenter=true&width=900&lines=Bem-vindo+ao+meu+perfil!;Transformando+curiosidade+em+codigo.;Sempre+aprendendo%2C+sempre+evoluindo." alt="Typing animation" />
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/STAR%20WARS%20MODE-CLASSIC%20YELLOW%20%26%20SPACE-000000?style=for-the-badge&labelColor=000000&color=FFE81F" alt="Star Wars Mode" />
-</div>
-
 ---
 
 ## Sobre mim

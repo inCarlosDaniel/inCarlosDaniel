@@ -72,8 +72,8 @@ Objetivo: Me tornar um grande desenvolvedor e deixar minha marca na galaxia da t
 <div align="center">
   <h1>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=00BFFF&text=THIS%20IS%20THE%20WAY!&fontSize=40&animation=fadeIn&fontAlignY=40">
-      <img alt="This is the way" src="https://capsule-render.vercel.app/api?type=soft&color=0080FF&text=THIS%20IS%20THE%20WAY!&fontSize=40&fontAlignY=40">
+      <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:02111F,50:043A70,100:00F5FF&text=THIS%20IS%20THE%20WAY!&fontSize=40&animation=fadeIn&fontAlignY=40&fontColor=EAFBFF">
+      <img alt="This is the way" src="https://capsule-render.vercel.app/api?type=soft&color=0:02111F,50:055C9D,100:00D9FF&text=THIS%20IS%20THE%20WAY!&fontSize=40&fontAlignY=40&fontColor=F2FDFF">
     </picture>
   </h1>
 </div>

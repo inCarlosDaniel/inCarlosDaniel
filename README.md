@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Bem-vindo+ao+meu+perfil!;Transformando+curiosidade+em+codigo.;Sempre+aprendendo%2C+sempre+evoluindo." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Bem-vindo+ao+meu+perfil!;Transformando+curiosidade+em+codigo." alt="Typing animation" />
 </div>
 
 ---

@@ -51,7 +51,7 @@ Objetivo: Me tornar um grande desenvolvedor e deixar minha marca na galaxia da t
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=inCarlosDaniel&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=000000&title_color=00E5FF&text_color=E6F7FF&icon_color=00E5FF&border_color=00E5FF&hide=issues&hide_title=false" alt="GitHub stats de Carlos Daniel" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inCarlosDaniel&layout=compact&langs_count=8&bg_color=000000&title_color=00E5FF&text_color=E6F7FF&border_color=00E5FF&card_width=320" alt="Most used languages de Carlos Daniel" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inCarlosDaniel&layout=compact&langs_count=10&bg_color=000000&title_color=00E5FF&text_color=E6F7FF&border_color=00E5FF&card_width=320" alt="Most used languages de Carlos Daniel" />
 </div>
 
 <div align="center">
@@ -72,3 +72,4 @@ Objetivo: Me tornar um grande desenvolvedor e deixar minha marca na galaxia da t
 <div align="center">
   <img alt="This is the way" src="https://capsule-render.vercel.app/api?type=soft&color=0:02111F,50:055C9D,100:00F5FF&text=THIS%20IS%20THE%20WAY!&fontSize=40&animation=fadeIn&fontAlignY=40&fontColor=F2FDFF" />
 </div>
+

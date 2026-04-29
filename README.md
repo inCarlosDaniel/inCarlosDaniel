@@ -51,17 +51,21 @@ Objetivo: Me tornar um grande desenvolvedor e deixar minha marca na galaxia da t
 
 
 
-<div align="center>
-<a href="https://github.com/inCarlosDaniel">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inCarlosDaniel&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=inCarlosDaniel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align="center">
+  <a href="https://github.com/inCarlosDaniel">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inCarlosDaniel&layout=compact&langs_count=10&bg_color=000000&title_color=00E5FF&text_color=E6F7FF&border_color=00E5FF&card_width=320" alt="Most used languages de Carlos Daniel" />
+  </a>
+  <a href="https://github.com/inCarlosDaniel">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=inCarlosDaniel&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=000000&title_color=00E5FF&text_color=E6F7FF&icon_color=00E5FF&border_color=00E5FF&hide=issues&hide_title=false" alt="GitHub stats de Carlos Daniel" />
+  </a>
 </div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inCarlosDaniel&theme=github_dark" alt="Resumo de atividade de Carlos Daniel" />
+</div>
 
-  ![Snake animation](https://github.com/inCarlosDaniel/inCarlosDaniel/blob/output/github-contribution-grid-snake.svg)
-
+<div align="center">
+  <img loading="lazy" src="https://raw.githubusercontent.com/inCarlosDaniel/inCarlosDaniel/output/github-contribution-grid-snake-dark.svg" alt="Animacao da cobrinha nas contribuicoes" />
 </div>
 
 

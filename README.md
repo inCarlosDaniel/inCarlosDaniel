@@ -59,6 +59,7 @@ Objetivo: Me tornar um grande desenvolvedor e deixar minha marca na galaxia da t
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inCarlosDaniel&theme=github_dark" alt="Resumo de atividade de Carlos Daniel" />
+  https://github.com/inCarlosDaniel/inCarlosDaniel/blob/output/github-contribution-grid-snake.svg
 </div>
 
 ---

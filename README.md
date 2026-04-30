@@ -7,8 +7,6 @@
 
 ## Sobre mim
 
-<img align="right" alt="Star Wars" width="260" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTd1eTg2dnZrdWZ6eXc0NHB0OHB4d3cwcDBqZ3V5b2oxeDA2dmoweSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pvDp7Ewpzt0o8/giphy.gif" />
-
 Sou **Carlos Daniel**, um estudante apaixonado por tecnologia, desenvolvimento e aprendizado constante.
 
 - Estudando e seguindo rumo a graduacao em **Ciencia da Computacao pela UDF**

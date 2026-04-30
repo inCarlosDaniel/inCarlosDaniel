@@ -28,7 +28,7 @@ Sou **Carlos Daniel**, um estudante apaixonado por tecnologia, desenvolvimento e
 
 ---
 
-## Estatisticas da galaxia
+## Estatisticas
 
 
 

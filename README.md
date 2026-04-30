@@ -54,8 +54,13 @@ Objetivo: Me tornar um grande desenvolvedor e deixar minha marca na galaxia da t
 
 <div align="center">
 <a href="https://github.com/inCarlosDaniel">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inCarlosDaniel&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=inCarlosDaniel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+<img loading="lazy" height="180em" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=inCarlosDaniel&layout=compact&langs_count=7&theme=dracula&hide=html&custom_title=%F0%9F%8F%86%20Most%20Used%20Languages%20%F0%9F%8F%86"/>
+
+<img loading="lazy" height="180em" 
+src="https://github-readme-stats.vercel.app/api?username=inCarlosDaniel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
 </div>
 
 <div align="center">
@@ -65,7 +70,6 @@ Objetivo: Me tornar um grande desenvolvedor e deixar minha marca na galaxia da t
 <div align="center">
   <img loading="lazy" src="https://raw.githubusercontent.com/inCarlosDaniel/inCarlosDaniel/output/github-contribution-grid-snake-dark.svg" alt="Animacao da cobrinha nas contribuicoes" />
 </div>
-
 
 
 ---

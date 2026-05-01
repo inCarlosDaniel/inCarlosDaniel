@@ -27,27 +27,38 @@ Sou **Carlos Daniel**, um estudante apaixonado por tecnologia, desenvolvimento e
 </div>
 
 ---
-
-## Estatisticas
-
-
-
+## Estatísticas
 
 <div align="center">
-<a href="https://github.com/inCarlosDaniel">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inCarlosDaniel&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=inCarlosDaniel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/inCarlosDaniel">
+    <img 
+      loading="lazy" 
+      height="180em" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=inCarlosDaniel&layout=compact&langs_count=7&bg_color=0d1117&title_color=00BFFF&text_color=E0E0E0&icon_color=00BFFF&border_color=00BFFF"
+    />
+    
+    <img 
+      loading="lazy" 
+      height="180em" 
+      src="https://github-readme-stats.vercel.app/api?username=inCarlosDaniel&show_icons=true&bg_color=0d1117&title_color=00BFFF&text_color=E0E0E0&icon_color=00BFFF&border_color=00BFFF&include_all_commits=true&count_private=true"
+    />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inCarlosDaniel&theme=github_dark" alt="Resumo de atividade de Carlos Daniel" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inCarlosDaniel&theme=github_dark" 
+    alt="Resumo de atividade de Carlos Daniel"
+  />
 </div>
 
 <div align="center">
-  <img loading="lazy" src="https://raw.githubusercontent.com/inCarlosDaniel/inCarlosDaniel/output/github-contribution-grid-snake-dark.svg" alt="Animacao da cobrinha nas contribuicoes" />
+  <img 
+    loading="lazy" 
+    src="https://raw.githubusercontent.com/inCarlosDaniel/inCarlosDaniel/output/github-contribution-grid-snake-dark.svg" 
+    alt="Animacao da cobrinha nas contribuicoes"
+  />
 </div>
-
-
 
 ---
 

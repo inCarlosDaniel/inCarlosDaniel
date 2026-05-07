@@ -7,6 +7,8 @@
 
 ## Sobre mim
 
+<img align="right" alt="Star Wars" width="260" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTd1eTg2dnZrdWZ6eXc0NHB0OHB4d3cwcDBqZ3V5b2oxeDA2dmoweSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pvDp7Ewpzt0o8/giphy.gif" />
+
 Sou **Carlos Daniel**, um estudante apaixonado por tecnologia, desenvolvimento e aprendizado constante.
 
 - Estudando e seguindo rumo a graduacao em **Ciencia da Computacao pela UDF**
@@ -30,26 +32,17 @@ Sou **Carlos Daniel**, um estudante apaixonado por tecnologia, desenvolvimento e
 ## Estatísticas
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=inCarlosDaniel&show_icons=true&theme=transparent&bg_color=000000&title_color=00BFFF&text_color=E0E0E0&icon_color=00BFFF&border_color=00BFFF&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inCarlosDaniel&layout=compact&langs_count=7&theme=transparent&bg_color=000000&title_color=00BFFF&text_color=E0E0E0&icon_color=00BFFF&border_color=00BFFF"/>
-
+<a href="https://github.com/inCarlosDaniel">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inCarlosDaniel&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=inCarlosDaniel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <div align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inCarlosDaniel&theme=github_dark" 
-    alt="Resumo de atividade de Carlos Daniel"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inCarlosDaniel&theme=github_dark" alt="Resumo de atividade de Carlos Daniel" />
 </div>
 
 <div align="center">
-  <img 
-    loading="lazy" 
-    src="https://raw.githubusercontent.com/inCarlosDaniel/inCarlosDaniel/output/github-contribution-grid-snake-dark.svg" 
-    alt="Animacao da cobrinha nas contribuicoes"
-  />
+  <img loading="lazy" src="https://raw.githubusercontent.com/inCarlosDaniel/inCarlosDaniel/output/github-contribution-grid-snake-dark.svg" alt="Animacao da cobrinha nas contribuicoes" />
 </div>
 
 ---

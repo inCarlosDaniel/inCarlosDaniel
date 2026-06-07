@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Bem-vindo+ao+meu+perfil!;Transformando+curiosidade+em+codigo." alt="Typing animation" />
 </div>
@@ -29,13 +28,6 @@ Sou **Carlos Daniel**, um estudante apaixonado por tecnologia, desenvolvimento e
 </div>
 
 ---
-## Estatísticas
-
-<div align="center">
-<a href="https://github.com/inCarlosDaniel">
-<img loading="lazy" height="180em" src="https://github-readme-stats-pi-ruby-66.vercel.app/api/top-langs/?username=inCarlosDaniel&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats-pi-ruby-66.vercel.app/api?username=inCarlosDaniel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inCarlosDaniel&theme=github_dark" alt="Resumo de atividade de Carlos Daniel" />

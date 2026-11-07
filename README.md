@@ -29,10 +29,6 @@ Sou **Carlos Daniel**, um estudante apaixonado por tecnologia, desenvolvimento e
 
 ---
 
-
-## Projetos em Destaque
-
-
 ## Projetos em Destaque
 
 <div align="center">

@@ -1,5 +1,6 @@
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Bem-vindo+ao+meu+perfil!;Transformando+curiosidade+em+codigo." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=008CFF&center=true&vCenter=true&width=900&lines=Bem-vindo+ao+meu+perfil!;Transformando+curiosidade+em+codigo." alt="Boas-vindas" />
 </div>
 
 ---
@@ -10,9 +11,9 @@
 
 Sou **Carlos Daniel**, um estudante apaixonado por tecnologia, desenvolvimento e aprendizado constante.
 
-- Estudando e seguindo rumo a graduacao em **Ciencia da Computacao pela UDF**
--  **Tecnico em Informatica pela ETB**
-- Interessado em **programacao, cybersecurity, logica, banco de dados e novas tecnologias**
+- Estudando e seguindo rumo à graduação em **Ciência da Computação pela UDF**
+- **Técnico em Informática pela ETB**
+- Interessado em **programação, cybersecurity, lógica, banco de dados e novas tecnologias**
 - Em busca de evoluir como desenvolvedor e construir projetos cada vez mais criativos e completos
 
 > "Do. Or do not. There is no try."
@@ -24,7 +25,7 @@ Sou **Carlos Daniel**, um estudante apaixonado por tecnologia, desenvolvimento e
 ## Tecnologias do meu arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,git,github,vscode,mysql" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,git,github,vscode,mysql&theme=dark" alt="Tecnologias" />
 </div>
 
 ---
@@ -35,20 +36,20 @@ Sou **Carlos Daniel**, um estudante apaixonado por tecnologia, desenvolvimento e
   <table>
     <tr>
       <td align="center" width="410">
-<a href="https://github.com/inCarlosDaniel/Visual-Anatomy-3D">
-  <img width="400" height="150" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=inCarlosDaniel&repo=Visual-Anatomy-3D&show_owner=false&bg_color=0D1117&title_color=008CFF&text_color=FFFFFF&icon_color=008CFF&border_color=008CFF" alt="Visual Anatomy 3D" />
-</a>
+        <a href="https://github.com/inCarlosDaniel/Visual-Anatomy-3D">
+          <img width="400" height="150" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=inCarlosDaniel&repo=Visual-Anatomy-3D&show_owner=false&bg_color=0D1117&title_color=008CFF&text_color=FFFFFF&icon_color=008CFF&border_color=008CFF" alt="Visual Anatomy 3D" />
+        </a>
       </td>
       <td align="center" width="410">
-<a href="https://github.com/inCarlosDaniel/SkillShare">
-  <img width="400" height="150" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=inCarlosDaniel&repo=SkillShare&bg_color=0D1117&title_color=008CFF&text_color=FFFFFF&icon_color=008CFF&border_color=008CFF&cache_seconds=1800&v=4" alt="SkillShare" />
-</a>
+        <a href="https://github.com/inCarlosDaniel/SkillShare">
+          <img width="400" height="150" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=inCarlosDaniel&repo=SkillShare&bg_color=0D1117&title_color=008CFF&text_color=FFFFFF&icon_color=008CFF&border_color=008CFF&cache_seconds=1800&v=4" alt="SkillShare" />
+        </a>
       </td>
     </tr>
     <tr>
       <td align="center" width="410">
         <a href="https://github.com/inCarlosDaniel/Sistema-de-gerenciamento-de-estoque">
-          <img width="400" height="150" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=inCarlosDaniel&repo=Sistema-de-gerenciamento-de-estoque&bg_color=0D1117&title_color=008CFF&text_color=FFFFFF&icon_color=008CFF&border_color=008CFF" alt="Sistema de Estoque" />
+          <img width="400" height="150" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=inCarlosDaniel&repo=Sistema-de-gerenciamento-de-estoque&bg_color=0D1117&title_color=008CFF&text_color=FFFFFF&icon_color=008CFF&border_color=008CFF" alt="Sistema de Gerenciamento de Estoque" />
         </a>
       </td>
       <td align="center" width="410">
@@ -60,7 +61,6 @@ Sou **Carlos Daniel**, um estudante apaixonado por tecnologia, desenvolvimento e
   </table>
 </div>
 
-
 ---
 
 ## Estatísticas do GitHub
@@ -71,8 +71,6 @@ Sou **Carlos Daniel**, um estudante apaixonado por tecnologia, desenvolvimento e
 </div>
 
 ---
-
-
 
 ## Atividade e contribuições
 
@@ -89,16 +87,22 @@ Sou **Carlos Daniel**, um estudante apaixonado por tecnologia, desenvolvimento e
   <img src="https://raw.githubusercontent.com/inCarlosDaniel/inCarlosDaniel/output/github-contribution-grid-snake-dark.svg" alt="Animação da cobrinha nas contribuições" />
 </div>
 
-
-
 ---
 
-## Conexao intergalactica
+## Conexão intergaláctica
 
 <div align="center">
-  <a href="https://github.com/inCarlosDaniel" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=000000&color=00E5FF" alt="GitHub" />
-  </a>
-</div>
 
----
+  <a href="https://github.com/inCarlosDaniel">
+    <img src="https://img.shields.io/badge/DESENVOLVIDO%20POR-CARLOS%20DANIEL%20DE%20SOUZA%20OLIVEIRA-008CFF?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=008CFF" alt="Desenvolvido por Carlos Daniel de Souza Oliveira" />
+  </a>
+
+  <br><br>
+
+  <sub>© 2026 Carlos Daniel · Todos os direitos reservados</sub>
+
+  <br><br>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001A33,50:0055AA,100:008CFF&height=100&section=footer" width="100%" alt="Rodapé azul" />
+
+</div>

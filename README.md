@@ -35,9 +35,9 @@ Sou **Carlos Daniel**, um estudante apaixonado por tecnologia, desenvolvimento e
   <table>
     <tr>
       <td align="center" width="410">
-        <a href="https://github.com/inCarlosDaniel/Visual-Anatomy-3D">
-          <img width="400" height="150" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=inCarlosDaniel&repo=Visual-Anatomy-3D&show_owner=true&bg_color=0D1117&title_color=008CFF&text_color=FFFFFF&icon_color=008CFF&border_color=008CFF" alt="Visual Anatomy 3D" />
-        </a>
+<a href="https://github.com/inCarlosDaniel/Visual-Anatomy-3D">
+  <img width="400" height="150" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=inCarlosDaniel&repo=Visual-Anatomy-3D&show_owner=false&bg_color=0D1117&title_color=008CFF&text_color=FFFFFF&icon_color=008CFF&border_color=008CFF" alt="Visual Anatomy 3D" />
+</a>
       </td>
       <td align="center" width="410">
 <a href="https://github.com/inCarlosDaniel/SkillShare">

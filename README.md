@@ -5,44 +5,49 @@
 
 ---
 
+
 ## Sobre mim
 
-<img align="right" alt="Mestre Yoda - Star Wars" width="260" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTd1eTg2dnZrdWZ6eXc0NHB0OHB4d3cwcDBqZ3V5b2oxeDA2dmoweSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pvDp7Ewpzt0o8/giphy.gif" />
+<table>
+  <tr>
+    <td width="52%" valign="top">
 
-### Olá, eu sou Carlos Daniel! 👋
+### <img src="https://img.shields.io/badge/Olá,_eu_sou_Carlos_Daniel!-008CFF?style=flat&labelColor=0D1117" alt="Olá, eu sou Carlos Daniel!" />
 
 Sou estudante de **Ciência da Computação**, técnico em Informática e apaixonado por transformar ideias em soluções tecnológicas.
 
-🎓 **Graduação:** Ciência da Computação — UDF
+🎓 **Ciência da Computação** — UDF
 
-💻 **Formação técnica:** Técnico em Informática — ETB
+🏅 **Técnico em Informática** — ETB
 
-🚀 **Objetivo:** Evoluir como desenvolvedor, explorar novas tecnologias e criar projetos inovadores.
+🚀 **Objetivo:** Evoluir como desenvolvedor e criar projetos inovadores.
 
-🔭 **Atualmente:** Desenvolvendo projetos e aprofundando meus conhecimentos em programação e desenvolvimento de software.
+🔭 **Atualmente:** Desenvolvendo projetos e aprofundando meus conhecimentos em programação.
 
-<br clear="right" />
-
-### Áreas de interesse
+    </td>
+    <td width="48%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTd1eTg2dnZrdWZ6eXc0NHB0OHB4d3cwcDBqZ3V5b2oxeDA2dmoweSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pvDp7Ewpzt0o8/giphy.gif" width="300" alt="Mestre Yoda - Star Wars" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/PROGRAMAÇÃO-008CFF?style=for-the-badge&labelColor=0D1117" alt="Programação" />
-  <img src="https://img.shields.io/badge/CYBERSECURITY-008CFF?style=for-the-badge&labelColor=0D1117" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/BANCO_DE_DADOS-008CFF?style=for-the-badge&labelColor=0D1117" alt="Banco de Dados" />
-  <img src="https://img.shields.io/badge/DESENVOLVIMENTO_WEB-008CFF?style=for-the-badge&labelColor=0D1117" alt="Desenvolvimento Web" />
-  <img src="https://img.shields.io/badge/INTELIGÊNCIA_ARTIFICIAL-008CFF?style=for-the-badge&labelColor=0D1117" alt="Inteligência Artificial" />
+  <img src="https://img.shields.io/badge/Programação-0D1117?style=flat&labelColor=008CFF" alt="Programação" />
+  <img src="https://img.shields.io/badge/Cybersecurity-0D1117?style=flat&labelColor=008CFF" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/Banco_de_Dados-0D1117?style=flat&labelColor=008CFF" alt="Banco de Dados" />
+  <img src="https://img.shields.io/badge/Desenvolvedor_Full--Stack-0D1117?style=flat&labelColor=008CFF" alt="Desenvolvedor Full-Stack" />
+  <img src="https://img.shields.io/badge/Novas_Tecnologias-0D1117?style=flat&labelColor=008CFF" alt="Novas Tecnologias" />
 
 </div>
 
-<br>
+---
 
 <div align="center">
   <i>"Do. Or do not. There is no try."</i>
   <br>
   <sub>— Mestre Yoda</sub>
 </div>
-
 
 ---
 

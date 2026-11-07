@@ -33,7 +33,7 @@ Sou **Carlos Daniel**, um estudante apaixonado por tecnologia, desenvolvimento e
 ## Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/inCarlosDaniel">
+  <a href="https://github.com/inCarlosDaniel/Visual-Anatomy-3D">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=inCarlosDaniel&repo=Visual-Anatomy-3D&bg_color=0D1117&title_color=008CFF&text_color=FFFFFF&icon_color=008CFF&border_color=008CFF" alt="Visual Anatomy 3D" />
   </a>
  

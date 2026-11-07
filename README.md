@@ -39,19 +39,22 @@ Sou **Carlos Daniel**, um estudante apaixonado por tecnologia, desenvolvimento e
 
 ---
 
+
 ## Atividade e contribuições
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inCarlosDaniel&theme=github_dark" alt="Resumo de atividade" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inCarlosDaniel&theme=github" alt="Resumo de atividade" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=inCarlosDaniel&bg_color=0D1117&color=008CFF&line=008CFF&point=FFFFFF&area_color=008CFF&area=true&hide_border=true" alt="Gráfico de contribuições" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=inCarlosDaniel&theme=github&utcOffset=-3" alt="Horários de contribuição" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=inCarlosDaniel&theme=github" alt="Estatísticas de contribuição" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/inCarlosDaniel/inCarlosDaniel/output/github-contribution-grid-snake-dark.svg" alt="Animação de contribuições" />
+  <img src="https://raw.githubusercontent.com/inCarlosDaniel/inCarlosDaniel/output/github-contribution-grid-snake-dark.svg" alt="Animação da cobrinha nas contribuições" />
 </div>
+
 
 ---
 

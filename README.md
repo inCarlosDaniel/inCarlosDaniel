@@ -11,7 +11,7 @@
 
 ### Olá, eu sou Carlos Daniel!
 
-Sou estudante de **Ciência da Computação**, técnico em Informática e entusiasta em desenvolvimento de software, Mods e Jogos. Tenho interesse em programação, cybersecurity, lógica, banco de dados e novas tecnologias.
+Sou estudante de **Ciência da Computação**, Técnico em Informática e costumo me dedicar intensamente ao desenvolvimento de softwares, mods e jogos. Tenho interesse em Programação, Cybersecurity, Lógica, Banco de Dados e Novas Tecnologias.
 Estou em busca de evoluir como desenvolvedor e construir projetos cada vez mais criativos e completos.
 
  **Ciência da Computação · UDF**

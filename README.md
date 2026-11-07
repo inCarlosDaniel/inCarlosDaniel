@@ -5,20 +5,18 @@
 
 ---
 
-
-## Sobre mim
-
 ## <img src="https://img.icons8.com/fluency/24/008CFF/user.png" width="20" alt="" /> Sobre mim
 
 <img align="right" width="360" alt="Mestre Yoda - Star Wars" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTd1eTg2dnZrdWZ6eXc0NHB0OHB4d3cwcDBqZ3V5b2oxeDA2dmoweSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pvDp7Ewpzt0o8/giphy.gif" />
 
 ### Olá, eu sou Carlos Daniel!
 
-Sou estudante de **Ciência da Computação**, técnico em Informática e entusiasta do desenvolvimento de software.
+Sou estudante de **Ciência da Computação**, técnico em Informática e entusiasta em desenvolvimento de software, Mods e Jogos. Tenho interesse em programação, cybersecurity, lógica, banco de dados e novas tecnologias.
+Estou em busca de evoluir como desenvolvedor e construir projetos cada vez mais criativos e completos.
 
-🎓 **Ciência da Computação · UDF**
+ **Ciência da Computação · UDF**
 
-🏅 **Técnico em Informática · ETB**
+ **Técnico em Informática · ETB**
 
 <br clear="right" />
 

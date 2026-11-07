@@ -7,18 +7,42 @@
 
 ## Sobre mim
 
-<img align="right" alt="Star Wars" width="260" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTd1eTg2dnZrdWZ6eXc0NHB0OHB4d3cwcDBqZ3V5b2oxeDA2dmoweSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pvDp7Ewpzt0o8/giphy.gif" />
+<img align="right" alt="Mestre Yoda - Star Wars" width="260" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTd1eTg2dnZrdWZ6eXc0NHB0OHB4d3cwcDBqZ3V5b2oxeDA2dmoweSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pvDp7Ewpzt0o8/giphy.gif" />
 
-Sou **Carlos Daniel**, um estudante apaixonado por tecnologia, desenvolvimento e aprendizado constante.
+### Olá, eu sou Carlos Daniel! 👋
 
-- Estudando e seguindo rumo à graduação em **Ciência da Computação pela UDF**
-- **Técnico em Informática pela ETB**
-- Interessado em **programação, cybersecurity, lógica, banco de dados e novas tecnologias**
-- Em busca de evoluir como desenvolvedor e construir projetos cada vez mais criativos e completos
+Sou estudante de **Ciência da Computação**, técnico em Informática e apaixonado por transformar ideias em soluções tecnológicas.
 
-> "Do. Or do not. There is no try."
+🎓 **Graduação:** Ciência da Computação — UDF
+
+💻 **Formação técnica:** Técnico em Informática — ETB
+
+🚀 **Objetivo:** Evoluir como desenvolvedor, explorar novas tecnologias e criar projetos inovadores.
+
+🔭 **Atualmente:** Desenvolvendo projetos e aprofundando meus conhecimentos em programação e desenvolvimento de software.
 
 <br clear="right" />
+
+### Áreas de interesse
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/PROGRAMAÇÃO-008CFF?style=for-the-badge&labelColor=0D1117" alt="Programação" />
+  <img src="https://img.shields.io/badge/CYBERSECURITY-008CFF?style=for-the-badge&labelColor=0D1117" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/BANCO_DE_DADOS-008CFF?style=for-the-badge&labelColor=0D1117" alt="Banco de Dados" />
+  <img src="https://img.shields.io/badge/DESENVOLVIMENTO_WEB-008CFF?style=for-the-badge&labelColor=0D1117" alt="Desenvolvimento Web" />
+  <img src="https://img.shields.io/badge/INTELIGÊNCIA_ARTIFICIAL-008CFF?style=for-the-badge&labelColor=0D1117" alt="Inteligência Artificial" />
+
+</div>
+
+<br>
+
+<div align="center">
+  <i>"Do. Or do not. There is no try."</i>
+  <br>
+  <sub>— Mestre Yoda</sub>
+</div>
+
 
 ---
 

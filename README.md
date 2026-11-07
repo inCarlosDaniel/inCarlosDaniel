@@ -29,12 +29,27 @@ Sou **Carlos Daniel**, um estudante apaixonado por tecnologia, desenvolvimento e
 
 ---
 
+## Estatísticas do GitHub
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inCarlosDaniel&theme=github_dark" alt="Resumo de atividade de Carlos Daniel" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=inCarlosDaniel&show_icons=true&theme=github_dark&include_all_commits=true&title_color=008CFF&icon_color=008CFF&text_color=FFFFFF&bg_color=0D1117&border_color=008CFF" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inCarlosDaniel&layout=compact&theme=github_dark&title_color=008CFF&text_color=FFFFFF&bg_color=0D1117&border_color=008CFF" alt="Linguagens mais utilizadas" />
+</div>
+
+---
+
+## Atividade e contribuições
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inCarlosDaniel&theme=github_dark" alt="Resumo de atividade" />
 </div>
 
 <div align="center">
-  <img loading="lazy" src="https://raw.githubusercontent.com/inCarlosDaniel/inCarlosDaniel/output/github-contribution-grid-snake-dark.svg" alt="Animacao da cobrinha nas contribuicoes" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=inCarlosDaniel&bg_color=0D1117&color=008CFF&line=008CFF&point=FFFFFF&area_color=008CFF&area=true&hide_border=true" alt="Gráfico de contribuições" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/inCarlosDaniel/inCarlosDaniel/output/github-contribution-grid-snake-dark.svg" alt="Animação de contribuições" />
 </div>
 
 ---

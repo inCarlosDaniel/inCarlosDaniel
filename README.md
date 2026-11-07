@@ -100,6 +100,7 @@ Sou **Carlos Daniel**, um estudante apaixonado por tecnologia, desenvolvimento e
     <sub>© 2026 Carlos Daniel · Todos os direitos reservados</sub>
   </p>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001A33,50:0055AA,100:008CFF&height=55&section=footer" width="100%" alt="Rodapé azul" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001A33,50:0055AA,100:008CFF&height=100&section=footer" width="100%" alt="Rodapé azul" />
+  
 </div>
 

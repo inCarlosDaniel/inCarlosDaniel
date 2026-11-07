@@ -30,6 +30,20 @@ Sou **Carlos Daniel**, um estudante apaixonado por tecnologia, desenvolvimento e
 ---
 
 
+## Projetos em Destaque
+
+<div align="center">
+  <a href="https://github.com/inCarlosDaniel">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=inCarlosDaniel&repo=Visual-Anatomy-3D&bg_color=0D1117&title_color=008CFF&text_color=FFFFFF&icon_color=008CFF&border_color=008CFF" alt="Visual Anatomy 3D" />
+  </a>
+  <a href="https://github.com/inCarlosDaniel">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=inCarlosDaniel&repo=SkillShare&bg_color=0D1117&title_color=008CFF&text_color=FFFFFF&icon_color=008CFF&border_color=008CFF" alt="SkillShare" />
+  </a>
+</div>
+
+
+---
+
 ## Estatísticas do GitHub
 
 <div align="center">

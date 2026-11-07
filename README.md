@@ -8,54 +8,32 @@
 
 ## Sobre mim
 
-<table>
-  <tr>
-    <td width="55%" valign="middle">
-      <h3>Olá, eu sou Carlos Daniel! 👋</h3>
-      <p>
-        Sou estudante de <strong>Ciência da Computação</strong>,
-        técnico em Informática e apaixonado por transformar
-        ideias em soluções tecnológicas.
-      </p>
-      <p>
-        🎓 <strong>Graduação:</strong> Ciência da Computação — UDF
-      </p>
-      <p>
-        🏅 <strong>Formação técnica:</strong> Técnico em Informática — ETB
-      </p>
-      <p>
-        🚀 <strong>Objetivo:</strong> Evoluir como desenvolvedor e criar projetos inovadores.
-      </p>
-      <p>
-        🔭 <strong>Atualmente:</strong> Desenvolvendo projetos e aprofundando meus conhecimentos em programação.
-      </p>
-    </td>
-    <td width="45%" align="center" valign="middle">
-      <img
-        src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTd1eTg2dnZrdWZ6eXc0NHB0OHB4d3cwcDBqZ3V5b2oxeDA2dmoweSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pvDp7Ewpzt0o8/giphy.gif"
-        width="280"
-        alt="Mestre Yoda - Star Wars"
-      />
-    </td>
-  </tr>
-</table>
+## <img src="https://img.icons8.com/fluency/24/008CFF/user.png" width="20" alt="" /> Sobre mim
 
-<div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/Programação-0D1117?style=flat-square&labelColor=008CFF" alt="Programação" />
-    <img src="https://img.shields.io/badge/Cybersecurity-0D1117?style=flat-square&labelColor=008CFF" alt="Cybersecurity" />
-    <img src="https://img.shields.io/badge/Banco_de_Dados-0D1117?style=flat-square&labelColor=008CFF" alt="Banco de Dados" />
-    <img src="https://img.shields.io/badge/Desenvolvedor_Full--Stack-0D1117?style=flat-square&labelColor=008CFF" alt="Desenvolvedor Full-Stack" />
-    <img src="https://img.shields.io/badge/Novas_Tecnologias-0D1117?style=flat-square&labelColor=008CFF" alt="Novas Tecnologias" />
-  </p>
+<img align="right" width="360" alt="Mestre Yoda - Star Wars" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTd1eTg2dnZrdWZ6eXc0NHB0OHB4d3cwcDBqZ3V5b2oxeDA2dmoweSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pvDp7Ewpzt0o8/giphy.gif" />
+
+### Olá, eu sou Carlos Daniel!
+
+Sou estudante de **Ciência da Computação**, técnico em Informática e entusiasta do desenvolvimento de software.
+
+🎓 **Ciência da Computação · UDF**
+
+🏅 **Técnico em Informática · ETB**
+
+<br clear="right" />
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Programação-102B46?style=flat&labelColor=102B46&color=102B46" alt="Programação" />
+  <img src="https://img.shields.io/badge/Cybersecurity-102B46?style=flat&labelColor=102B46&color=102B46" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/Banco_de_Dados-102B46?style=flat&labelColor=102B46&color=102B46" alt="Banco de Dados" />
+  <img src="https://img.shields.io/badge/Desenvolvedor_Full--Stack-102B46?style=flat&labelColor=102B46&color=102B46" alt="Desenvolvedor Full-Stack" />
+  <img src="https://img.shields.io/badge/Novas_Tecnologias-102B46?style=flat&labelColor=102B46&color=102B46" alt="Novas Tecnologias" />
 </div>
 
+---
+
 <div align="center">
-  <p>
-    <em>"Do. Or do not. There is no try."</em>
-    <br>
-    <sub>— Mestre Yoda</sub>
-  </p>
+  <i>✧ "Do. Or do not. There is no try."</i>
 </div>
 
 ---

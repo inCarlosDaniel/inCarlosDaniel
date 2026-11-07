@@ -92,17 +92,14 @@ Sou **Carlos Daniel**, um estudante apaixonado por tecnologia, desenvolvimento e
 ## Conexão intergaláctica
 
 <div align="center">
-
   <a href="https://github.com/inCarlosDaniel">
     <img src="https://img.shields.io/badge/DESENVOLVIDO%20POR-CARLOS%20DANIEL%20DE%20SOUZA%20OLIVEIRA-008CFF?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=008CFF" alt="Desenvolvido por Carlos Daniel de Souza Oliveira" />
   </a>
 
-  <br><br>
+  <p>
+    <sub>© 2026 Carlos Daniel · Todos os direitos reservados</sub>
+  </p>
 
-  <sub>© 2026 Carlos Daniel · Todos os direitos reservados</sub>
-
-  <br><br>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001A33,50:0055AA,100:008CFF&height=100&section=footer" width="100%" alt="Rodapé azul" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001A33,50:0055AA,100:008CFF&height=55&section=footer" width="100%" alt="Rodapé azul" />
 </div>
+

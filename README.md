@@ -36,9 +36,19 @@ Sou **Carlos Daniel**, um estudante apaixonado por tecnologia, desenvolvimento e
   <a href="https://github.com/inCarlosDaniel">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=inCarlosDaniel&repo=Visual-Anatomy-3D&bg_color=0D1117&title_color=008CFF&text_color=FFFFFF&icon_color=008CFF&border_color=008CFF" alt="Visual Anatomy 3D" />
   </a>
-  <a href="https://github.com/inCarlosDaniel">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=inCarlosDaniel&repo=SkillShare&bg_color=0D1117&title_color=008CFF&text_color=FFFFFF&icon_color=008CFF&border_color=008CFF" alt="SkillShare" />
-  </a>
+ 
+<a href="https://github.com/inCarlosDaniel/SkillShare">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=inCarlosDaniel&repo=SkillShare&bg_color=0D1117&title_color=008CFF&text_color=FFFFFF&icon_color=008CFF&border_color=008CFF&cache_seconds=1800&v=2" alt="SkillShare" />
+</a>
+
+<a href="https://github.com/inCarlosDaniel/Sistema-de-gerenciamento-de-estoque">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=inCarlosDaniel&repo=Sistema-de-gerenciamento-de-estoque&bg_color=0D1117&title_color=008CFF&text_color=FFFFFF&icon_color=008CFF&border_color=008CFF&cache_seconds=1800&v=2" alt="SkillShare" />
+</a>
+
+<a href="https://github.com/inCarlosDaniel/Conversor-de-Temperatura---ProjetoA3">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=inCarlosDaniel&repo=Conversor-de-Temperatura---ProjetoA3&bg_color=0D1117&title_color=008CFF&text_color=FFFFFF&icon_color=008CFF&border_color=008CFF&cache_seconds=1800&v=2" alt="SkillShare" />
+</a>
+
 </div>
 
 

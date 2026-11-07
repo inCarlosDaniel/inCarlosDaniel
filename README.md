@@ -29,11 +29,12 @@ Sou **Carlos Daniel**, um estudante apaixonado por tecnologia, desenvolvimento e
 
 ---
 
+
 ## Estatísticas do GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=inCarlosDaniel&show_icons=true&theme=github_dark&include_all_commits=true&title_color=008CFF&icon_color=008CFF&text_color=FFFFFF&bg_color=0D1117&border_color=008CFF" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inCarlosDaniel&layout=compact&theme=github_dark&title_color=008CFF&text_color=FFFFFF&bg_color=0D1117&border_color=008CFF" alt="Linguagens mais utilizadas" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=inCarlosDaniel&show_icons=true&theme=github_dark&title_color=008CFF&icon_color=008CFF&text_color=FFFFFF&bg_color=0D1117&border_color=008CFF" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=inCarlosDaniel&layout=compact&theme=github_dark&title_color=008CFF&text_color=FFFFFF&bg_color=0D1117&border_color=008CFF" alt="Linguagens mais utilizadas" />
 </div>
 
 ---

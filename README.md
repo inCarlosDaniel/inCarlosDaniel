@@ -10,43 +10,52 @@
 
 <table>
   <tr>
-    <td width="52%" valign="top">
-
-### <img src="https://img.shields.io/badge/Olá,_eu_sou_Carlos_Daniel!-008CFF?style=flat&labelColor=0D1117" alt="Olá, eu sou Carlos Daniel!" />
-
-Sou estudante de **Ciência da Computação**, técnico em Informática e apaixonado por transformar ideias em soluções tecnológicas.
-
-🎓 **Ciência da Computação** — UDF
-
-🏅 **Técnico em Informática** — ETB
-
-🚀 **Objetivo:** Evoluir como desenvolvedor e criar projetos inovadores.
-
-🔭 **Atualmente:** Desenvolvendo projetos e aprofundando meus conhecimentos em programação.
-
+    <td width="55%" valign="middle">
+      <h3>Olá, eu sou Carlos Daniel! 👋</h3>
+      <p>
+        Sou estudante de <strong>Ciência da Computação</strong>,
+        técnico em Informática e apaixonado por transformar
+        ideias em soluções tecnológicas.
+      </p>
+      <p>
+        🎓 <strong>Graduação:</strong> Ciência da Computação — UDF
+      </p>
+      <p>
+        🏅 <strong>Formação técnica:</strong> Técnico em Informática — ETB
+      </p>
+      <p>
+        🚀 <strong>Objetivo:</strong> Evoluir como desenvolvedor e criar projetos inovadores.
+      </p>
+      <p>
+        🔭 <strong>Atualmente:</strong> Desenvolvendo projetos e aprofundando meus conhecimentos em programação.
+      </p>
     </td>
-    <td width="48%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTd1eTg2dnZrdWZ6eXc0NHB0OHB4d3cwcDBqZ3V5b2oxeDA2dmoweSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pvDp7Ewpzt0o8/giphy.gif" width="300" alt="Mestre Yoda - Star Wars" />
+    <td width="45%" align="center" valign="middle">
+      <img
+        src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTd1eTg2dnZrdWZ6eXc0NHB0OHB4d3cwcDBqZ3V5b2oxeDA2dmoweSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pvDp7Ewpzt0o8/giphy.gif"
+        width="280"
+        alt="Mestre Yoda - Star Wars"
+      />
     </td>
   </tr>
 </table>
 
 <div align="center">
-
-  <img src="https://img.shields.io/badge/Programação-0D1117?style=flat&labelColor=008CFF" alt="Programação" />
-  <img src="https://img.shields.io/badge/Cybersecurity-0D1117?style=flat&labelColor=008CFF" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/Banco_de_Dados-0D1117?style=flat&labelColor=008CFF" alt="Banco de Dados" />
-  <img src="https://img.shields.io/badge/Desenvolvedor_Full--Stack-0D1117?style=flat&labelColor=008CFF" alt="Desenvolvedor Full-Stack" />
-  <img src="https://img.shields.io/badge/Novas_Tecnologias-0D1117?style=flat&labelColor=008CFF" alt="Novas Tecnologias" />
-
+  <p>
+    <img src="https://img.shields.io/badge/Programação-0D1117?style=flat-square&labelColor=008CFF" alt="Programação" />
+    <img src="https://img.shields.io/badge/Cybersecurity-0D1117?style=flat-square&labelColor=008CFF" alt="Cybersecurity" />
+    <img src="https://img.shields.io/badge/Banco_de_Dados-0D1117?style=flat-square&labelColor=008CFF" alt="Banco de Dados" />
+    <img src="https://img.shields.io/badge/Desenvolvedor_Full--Stack-0D1117?style=flat-square&labelColor=008CFF" alt="Desenvolvedor Full-Stack" />
+    <img src="https://img.shields.io/badge/Novas_Tecnologias-0D1117?style=flat-square&labelColor=008CFF" alt="Novas Tecnologias" />
+  </p>
 </div>
 
----
-
 <div align="center">
-  <i>"Do. Or do not. There is no try."</i>
-  <br>
-  <sub>— Mestre Yoda</sub>
+  <p>
+    <em>"Do. Or do not. There is no try."</em>
+    <br>
+    <sub>— Mestre Yoda</sub>
+  </p>
 </div>
 
 ---
@@ -54,10 +63,14 @@ Sou estudante de **Ciência da Computação**, técnico em Informática e apaixo
 ## Tecnologias do meu arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,git,github,vscode,mysql&theme=dark" alt="Tecnologias" />
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,python,java,c,git,github,vscode,mysql&theme=dark"
+    alt="Tecnologias"
+  />
 </div>
 
 ---
+
 
 ## Projetos em Destaque
 
